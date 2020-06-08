@@ -1,0 +1,16 @@
+.my_flex_container {
+background-color: dimgray;
+height: 450px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-wrap: wrap;
+}
+
+.my_flex_block {
+background-color: goldenrod;
+color: honeydew;
+width: 150px;
+height: 150px;
+text-align: center;
+}
